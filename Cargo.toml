@@ -1,6 +1,12 @@
 [package]
 name = "folderwalk"
 version = "0.1.0"
+authors = ["Pjdur"]
 edition = "2024"
+description = "Folder walking tool"
+readme = "https://github.com/Pjdur/folderwalk/blob/main/README.md"
+homepage = "https://github.com/pjdur/folderwalk"
+repository = "https://github.com/Pjdur/folderwalk"
+license = "MIT"
 
 [dependencies]
